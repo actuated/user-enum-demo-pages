@@ -16,7 +16,7 @@ PHP pages to demonstrate user enumeration via HTTP responses.
 
 # Sample Accounts
 * The login pages use the usernames below.
-* The password reset pages use the same usernames with "@exmaple.com".
+* The password reset pages use the same usernames with "@example.com".
 * Valid accounts:
   - demo
   - admin
